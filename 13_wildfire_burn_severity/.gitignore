@@ -1,0 +1,4 @@
+outputs/*.tif
+# GIS raster files - keep local only
+*.tif
+*.tif.aux.xml
